@@ -3,12 +3,12 @@ entries:
   myweatherhelm:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2023-05-20T15:01:24.536302-07:00"
+    created: "2023-05-20T15:09:44.57136-07:00"
     description: A Helm chart for Kubernetes
-    digest: e4da7dda7f21e47265e7ace2425be3dfb393be0b64826e3dc7592eb7cd0c68ef
+    digest: 6c2587c13f9669d19d8ed197addfaaa479814e61dafb818f54fd4e949ea7c3dc
     name: myweatherhelm
     type: application
     urls:
     - myweatherhelm-1.2.0.tgz
     version: 1.2.0
-generated: "2023-05-20T15:01:24.534384-07:00"
+generated: "2023-05-20T15:09:44.568909-07:00"
